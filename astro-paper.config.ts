@@ -2,7 +2,7 @@ import { defineAstroPaperConfig } from "./src/types/config";
 
 export default defineAstroPaperConfig({
   site: {
-    url: "https://mikankenkyuusho.pages.dev/",
+    url: "https://animaigo.github.io/MikankenKyuusho/",
     title: "Mikan KenkyuuSho",
     description: "或许我们的日常，是由一串串奇迹连结而成的呢。",
     author: "Reisen⁴",
